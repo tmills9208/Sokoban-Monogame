@@ -1,0 +1,36 @@
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.Game.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.LevelEditor.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.MainMenu.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.Game.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.LevelEditor.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.MainMenu.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Kimera\Desktop\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.Game.resources
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.LevelEditor.resources
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.MainMenu.resources
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TMillsAssignment2\Assignment2\obj\Debug\Assignment2.pdb
